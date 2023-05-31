@@ -10,6 +10,9 @@ Each C lesson will be accompanied by an emoji to distinguish them.
 
 The ultimate goal is for me to be able to create my own working Snake game.
 
+### All exercises
+- 1 - [💡 Variables](https://github.com/IwakiLeKiwi/C-Learning/tree/1-variables)
+
 ## How to start a C project?
 - To start a C project, you need at LEAST this code:
 ```c
