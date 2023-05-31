@@ -1,22 +1,2 @@
-# Learning C
-
-Each branch corresponds to a video from a [series of tutorials](https://www.youtube.com/watch?v=90hGCMC3Chc&list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) 
-available on youtube and created by a french guy.
-
-This repository will be updated with descriptive comment lines
-to learn how to code and learn C easily.
-
-Each C lesson will be accompanied by an emoji to distinguish them.
-
-The ultimate goal is for me to be able to create my own working Snake game.
-
-## How to start a C project?
-- To start a C project, you need at LEAST this code:
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello world");
-    return 0;
-}
-```
+# Clone branch
+-Nothing here
