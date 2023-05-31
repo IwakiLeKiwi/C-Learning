@@ -13,6 +13,7 @@ The ultimate goal is for me to be able to create my own working Snake game.
 ### All exercises
 - 1 - [💡 Variables](https://github.com/IwakiLeKiwi/C-Learning/tree/1-variables)
 - 2 - [🚀 Interactions](https://github.com/IwakiLeKiwi/C-Learning/tree/2-interactions)
+- 3 - [➕ Opérateurs](https://github.com/IwakiLeKiwi/C-Learning/tree/3-operateurs)
 
 ## How to start a C project?
 - To start a C project, you need at LEAST this code:
