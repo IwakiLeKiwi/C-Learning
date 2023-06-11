@@ -18,6 +18,7 @@ The ultimate goal is for me to be able to create my own working Snake game.
 - 5 - [🔁 Boucles](https://github.com/IwakiLeKiwi/C-Learning/tree/5-boucles)
 - 6 - [🔧 Fontions](https://github.com/IwakiLeKiwi/C-Learning/tree/6-fonctions)
 - 7 - [🧩 Modularisation](https://github.com/IwakiLeKiwi/C-Learning/tree/7-modularisation)
+- 8 - [📦 Préprocesseur](https://github.com/IwakiLeKiwi/C-Learning/tree/8-preprocesseur)
 
 ## How to start a C project?
 - To start a C project, you need at LEAST this code:
