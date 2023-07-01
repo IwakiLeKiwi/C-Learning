@@ -5,17 +5,17 @@ The eleventh lesson is about strings.
 Character strings are arrays containing characters.
 
 To declare a ``SINGLE`` character:
-```
+```c
 char letter = 'A';
 ```
 
 To declare a string of ``SEVERAL`` characters:
-```
+```c
 char letters[] = 'Hello world';
 ```
 
 You can give a predefined number of characters to your string, but you must always add one more!
-```
+```c
 char string[7] = "Hello";
 ```
 
